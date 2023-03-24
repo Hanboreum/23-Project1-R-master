@@ -1,3 +1,5 @@
+test
+
 20230323
 library(ggplot2)
 library(cowsay)
@@ -18,8 +20,6 @@ print(a+b)
  print(c)
 
 vector 
-
-# test
 
 # 한보름 h1 이름
 ## 2030316 h2  강의날짜
